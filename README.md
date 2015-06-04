@@ -13,7 +13,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 Requirements:
 -----------
-Opencv247
+Opencv248
 
 The codes have components that run in parallel, activating openmp will speed up the codes signigicantly.
 
